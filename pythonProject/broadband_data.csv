@@ -1,0 +1,182 @@
+,Rank,Latency (ms),Country,Speed (Mbps)
+0,1,-,Singapore,284.05
+1,2,+1,Hong Kong (SAR),271.29
+2,3,+1,Chile,270.19
+3,4,-2,United Arab Emirates,266.36
+4,5,+1,Iceland,253.89
+5,6,-1,United States,249.86
+6,7,-,France,243.47
+7,8,+2,Thailand,232.30
+8,9,+2,Denmark,230.25
+9,10,-2,China,225.32
+10,11,+1,Spain,218.84
+11,12,-3,Monaco,216.52
+12,13,-,Romania,211.81
+13,14,-,Switzerland,204.92
+14,15,-,Israel,199.21
+15,16,-,Canada,198.17
+16,17,-,Japan,197.01
+17,18,-,Netherlands,190.96
+18,19,+20,Andorra,189.65
+19,20,-1,Liechtenstein,188.53
+20,21,-,Portugal,180.49
+21,22,+1,Taiwan,178.82
+22,23,-3,Hungary,178.73
+23,24,-,New Zealand,175.06
+24,25,-3,Kuwait,169.29
+25,26,-,Brazil,161.72
+26,27,-,Macau (SAR),159.94
+27,28,+2,Sweden,157.12
+28,29,-1,Poland,156.44
+29,30,-1,Qatar,153.64
+30,31,-,Panama,151.79
+31,32,+5,Uruguay,149.42
+32,33,+3,Colombia,147.21
+33,34,-2,Luxembourg,145.24
+34,35,-2,Jordan,144.19
+35,36,-2,Peru,143.35
+36,37,+1,Norway,141.67
+37,38,+7,Malaysia,137.12
+38,39,-14,South Korea,133.71
+39,40,-5,Moldova,129.01
+40,41,+2,Finland,121.91
+41,42,-1,Trinidad and Tobago,120.46
+42,43,+4,Vietnam,120.32
+43,44,-4,Lithuania,119.10
+44,45,-3,Ireland,116.73
+45,46,-2,Malta,115.95
+46,47,+3,Saint Lucia,111.10
+47,48,-2,Saudi Arabia,110.04
+48,49,-1,United Kingdom,106.54
+49,50,+1,Belgium,99.33
+50,51,+2,Austria,98.43
+51,52,-3,San Marino,95.50
+52,53,+13,Barbados,94.68
+53,54,-2,Philippines,94.19
+54,55,+4,Saint Vincent and the Grenadines,94.17
+55,56,-2,Slovenia,93.75
+56,57,-1,Costa Rica,93.62
+57,58,+3,Ecuador,93.39
+58,59,-2,Latvia,93.22
+59,60,-2,Germany,91.42
+60,61,+1,Paraguay,90.85
+61,62,+5,Grenada,89.17
+62,63,-8,Dominica,88.66
+63,64,-4,Cyprus,88.08
+64,65,+4,Estonia,88.06
+65,66,-1,Russia,87.73
+66,67,-4,Bahrain,86.49
+67,68,+7,Slovakia,85.47
+68,69,+4,Argentina,84.20
+69,70,-6,Montenegro,83.34
+70,71,+1,Bulgaria,83.14
+71,72,-2,Serbia,83.11
+72,73,-2,Italy,81.88
+73,74,-,Brunei,80.13
+74,75,-7,Guyana,79.75
+75,76,-,Ukraine,79.48
+76,77,+2,Jamaica,77.27
+77,78,+8,Egypt,76.86
+78,79,-2,Kosovo,72.31
+79,80,-,Czechia,71.09
+80,81,+10,Oman,70.96
+81,82,+1,Mongolia,70.91
+82,83,-1,Côte d'Ivoire,69.50
+83,84,-6,Croatia,69.24
+84,85,+4,Mexico,66.71
+85,86,-5,The Bahamas,66.58
+86,87,-2,Palestine,66.47
+87,88,-4,Nepal,65.84
+88,89,+1,Uzbekistan,64.50
+89,90,+2,India,64.45
+90,91,-4,Belarus,63.45
+91,92,+2,Australia,63.38
+92,93,-5,Saint Kitts and Nevis,63.08
+93,94,-1,Albania,61.97
+94,95,-,Kyrgyzstan,61.80
+95,96,-,Armenia,54.95
+96,97,-,Nicaragua,53.09
+97,98,+2,El Salvador,52.53
+98,99,-1,Kazakhstan,51.83
+99,100,-1,Mauritius,51.68
+100,101,-,Guatemala,50.95
+101,102,-,Greece,50.52
+102,103,+1,Venezuela,48.77
+103,104,-1,South Africa,47.30
+104,105,-,Belize,46.52
+105,106,+2,Bangladesh,46.52
+106,107,-1,Honduras,45.54
+107,108,-1,Cambodia,45.22
+108,109,+4,North Macedonia,44.70
+109,110,+2,Burkina Faso,43.55
+110,111,+15,Seychelles,43.25
+111,112,+2,Congo,42.22
+112,113,-3,Turkey,41.51
+113,114,-5,Gabon,40.95
+114,115,-,DR Congo,39.83
+115,116,+1,Azerbaijan,39.24
+116,117,+2,Antigua and Barbuda,38.96
+117,118,-7,Ghana,37.07
+118,119,+2,Laos,35.93
+119,120,+2,Iraq,34.85
+120,121,-3,Haiti,34.41
+121,122,-2,Dominican Republic,34.12
+122,123,-,Bolivia,32.71
+123,124,+1,Bosnia and Herzegovina,31.88
+124,125,+4,Morocco,31.15
+125,126,+2,Indonesia,30.22
+126,127,-,Rwanda,29.96
+127,128,-4,Togo,29.66
+128,129,+4,Tajikistan,28.89
+129,130,+1,Georgia,27.14
+130,131,-15,Madagascar,26.77
+131,132,-,Lesotho,26.17
+132,133,+3,Mauritania,24.97
+133,134,-4,Western Sahara,24.79
+134,135,-1,Benin,24.05
+135,136,+1,Mali,22.85
+136,137,+4,Sierra Leone,22.84
+137,138,-,Sri Lanka,22.51
+138,139,+3,Senegal,22.51
+139,140,-1,Nigeria,21.76
+140,141,+2,Myanmar (Burma),20.81
+141,142,-2,Zambia,19.72
+142,143,+1,Angola,19.53
+143,144,-9,Malawi,19.16
+144,145,+2,Fiji,18.55
+145,146,-1,Tanzania,18.47
+146,147,+1,Djibouti,16.82
+147,148,-2,Swaziland,16.13
+148,149,+1,Cape Verde,15.74
+149,150,+4,Mozambique,15.59
+150,151,+11,Lebanon,15.40
+151,152,-3,Somalia,15.32
+152,153,-,Pakistan,14.85
+153,154,+3,Algeria,14.44
+154,155,+6,Sudan,14.33
+155,156,-,Iran,14.23
+156,157,-5,Zimbabwe,14.04
+157,158,+2,Namibia,13.77
+158,159,-4,Uganda,13.64
+159,160,-2,Bhutan,13.45
+160,161,+5,Maldives,13.07
+161,162,+2,Papua New Guinea,12.15
+162,163,-4,Vanuatu,11.80
+163,164,+1,Suriname,11.74
+164,165,-2,Libya,11.16
+165,166,+1,Kenya,10.58
+166,167,+1,Guinea,10.38
+167,168,+3,Cameroon,10.18
+168,169,+1,Tunisia,9.73
+169,170,-1,Liberia,9.25
+170,171,+1,Ethiopia,8.80
+171,172,+3,Niger,8.53
+172,173,-,Botswana,8.21
+173,174,+5,The Gambia,7.46
+174,175,+3,Burundi,7.05
+175,176,-2,Yemen,7.01
+176,177,-1,Turkmenistan,6.55
+177,178,-1,East Timor,6.23
+178,179,+1,Syria,4.51
+179,180,+1,Afghanistan,3.44
+180,181,+1,Cuba,2.95
